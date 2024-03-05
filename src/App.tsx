@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Eateries from "./pages/Eateries";
+import './App.css';
 
 function App() {
   return (
